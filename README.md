@@ -2,8 +2,7 @@
 
 
 
-## Usage
-
+# Usage
 To use this project:
 Make ```Slenderman00``` the patches organization for your revanced app and make ```revanced-patches-grindr``` the Source
 ![image](https://i.imgur.com/f9Y9S4l.png)
