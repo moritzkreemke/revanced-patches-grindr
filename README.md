@@ -1,5 +1,5 @@
 # 🤙 ReVanced Patches for Grindr
-
+This patch unlocks "Unlimited" functionality in the Grindr application.
 
 
 # Usage
