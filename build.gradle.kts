@@ -94,8 +94,8 @@ publishing {
                 }
                 developers {
                     developer {
-                        id = "Your ID"
-                        name = "Joar Heimonen"
+                        id = "Slenderman00"
+                        name = "Slenderman00"
                         email = "joarheimonen@live.no"
                     }
                 }
