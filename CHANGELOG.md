@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/Slenderman00/revanced-patches-grindr/compare/v1.1.0...v1.1.1) (2024-02-17)
+
+
+### Bug Fixes
+
+* doesn not work with 9.18.5 ([c4a70da](https://github.com/Slenderman00/revanced-patches-grindr/commit/c4a70da652fc2d92c98aa6adb962c9184576b4f6))
+
 # [1.1.0](https://github.com/Slenderman00/revanced-patches-grindr/compare/v1.0.0...v1.1.0) (2024-02-17)
 
 
