@@ -23,6 +23,6 @@ object IsNoXtraUpsellFingerprint : MethodFingerprint(
         Opcode.RETURN
     ),
     customFingerprint = { methodDef, _ ->
-        methodDef.definingClass.contains("grindrapp")
+        !methodDef.definingClass.contains("TagPayloadReader")
     }
 )
