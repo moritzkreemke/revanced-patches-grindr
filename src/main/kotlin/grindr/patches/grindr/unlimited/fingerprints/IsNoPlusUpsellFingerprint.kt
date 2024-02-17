@@ -27,7 +27,7 @@ object IsNoPlusUpsellFingerprint : MethodFingerprint(
         Opcode.RETURN
     ),
     customFingerprint = { methodDef, _ ->
-        !methodDef.definingClass.contains("PickVisualMedia")
+        methodDef.definingClass.contains("grindrapp")
     }
 
 )
