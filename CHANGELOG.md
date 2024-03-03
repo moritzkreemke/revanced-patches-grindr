@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/Slenderman00/revanced-patches-grindr/compare/v1.1.3...v1.1.4) (2024-03-03)
+
+
+### Bug Fixes
+
+* All fingerprints now look for grindrapp scope ([b72ab87](https://github.com/Slenderman00/revanced-patches-grindr/commit/b72ab87cd891874d077758df5edcb633d742a46f))
+
 ## [1.1.3](https://github.com/Slenderman00/revanced-patches-grindr/compare/v1.1.2...v1.1.3) (2024-02-17)
 
 
