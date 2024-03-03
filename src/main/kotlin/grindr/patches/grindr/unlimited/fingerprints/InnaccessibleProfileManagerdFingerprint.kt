@@ -15,6 +15,6 @@ object InnaccessibleProfileManagerdFingerprint : MethodFingerprint(
         Opcode.RETURN
     ),
     customFingerprint = { methodDef, _ ->
-        methodDef.definingClass.contains("InaccessibleProfileManager")
+        methodDef.definingClass.contains("grindrapp")
     }
 )
